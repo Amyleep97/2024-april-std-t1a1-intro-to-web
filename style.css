@@ -21,7 +21,7 @@ h2 {
     background-color: rgb(96, 96, 110);
 }
 li {
-    color: black;
+    color: rgb(48, 41, 41);
     background-color: antiquewhite;
 }
 li:nth-child(2n) {
